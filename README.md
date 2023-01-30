@@ -1,0 +1,1 @@
+# gamzezorlu-EkonometrikModeller_Stata_uygulama
